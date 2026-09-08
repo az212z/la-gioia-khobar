@@ -1,0 +1,702 @@
+[
+  {
+    "ar": "الشوربة",
+    "en": "SOUPS",
+    "id": "0",
+    "items": [
+      {
+        "id": "0-0",
+        "ar": "شوربة القرع",
+        "en": "Pumpkin soup",
+        "price": 38,
+        "available": true
+      },
+      {
+        "id": "0-1",
+        "ar": "شوربة الفطر",
+        "en": "Mushroom Soup",
+        "price": 39,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "السلطة",
+    "en": "SALADS",
+    "id": "1",
+    "items": [
+      {
+        "id": "1-0",
+        "ar": "سلطة الحلومي",
+        "en": "special halloumi salad",
+        "price": 49,
+        "available": true
+      },
+      {
+        "id": "1-1",
+        "ar": "سلطة السيزر بالدجاج",
+        "en": "Caesar salad",
+        "price": 56,
+        "available": true
+      },
+      {
+        "id": "1-2",
+        "ar": "سلطة الكينوا بالفواكة",
+        "en": "Fruits Quinoa Salad",
+        "price": 57,
+        "available": true
+      },
+      {
+        "id": "1-3",
+        "ar": "فيليتيه تشكن سلاد",
+        "en": "Chicken vitality Salad",
+        "price": 58,
+        "available": true
+      },
+      {
+        "id": "1-4",
+        "ar": "سلطة الدجاج و الافوكادو",
+        "en": "Pollo e avocado salad",
+        "price": 59,
+        "available": true
+      },
+      {
+        "id": "1-5",
+        "ar": "سلطة البوراتا",
+        "en": "Burrata Salad",
+        "price": 79,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "المقبلات",
+    "en": "APPETIZERS",
+    "id": "2",
+    "items": [
+      {
+        "id": "2-0",
+        "ar": "تشيكن رانش",
+        "en": "Pollo al ranch",
+        "price": 49,
+        "available": true
+      },
+      {
+        "id": "2-1",
+        "ar": "لاجويا فرايز",
+        "en": "La Gioia Fries",
+        "price": 54,
+        "available": true
+      },
+      {
+        "id": "2-2",
+        "ar": "تشيلي تشيز بول",
+        "en": "Chili Cheese Boll",
+        "price": 53,
+        "available": true
+      },
+      {
+        "id": "2-3",
+        "ar": "ترافل أرنشيني",
+        "en": "Truffle arancini",
+        "price": 58,
+        "available": true
+      },
+      {
+        "id": "2-4",
+        "ar": "الروبيان بالسمسم",
+        "en": "Maple sesame shrimp",
+        "price": 56,
+        "available": true
+      },
+      {
+        "id": "2-5",
+        "ar": "لازانيا بايتس",
+        "en": "Lasagna Bites",
+        "price": 59,
+        "available": true
+      },
+      {
+        "id": "2-6",
+        "ar": "الذرة المشوية",
+        "en": "Grilled Corn",
+        "price": 48,
+        "available": true
+      },
+      {
+        "id": "2-7",
+        "ar": "بطاطس مقلية",
+        "en": "French Fries",
+        "price": 21,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "البرجر",
+    "en": "Burgers",
+    "id": "3",
+    "items": [
+      {
+        "id": "3-0",
+        "ar": "سوث ويسترن سلايدر برجر",
+        "en": "Southwestern slider burger",
+        "price": 44,
+        "available": true
+      },
+      {
+        "id": "3-1",
+        "ar": "شارك كول برجر",
+        "en": "Charcoal Beef Burger",
+        "price": 51,
+        "available": true
+      },
+      {
+        "id": "3-2",
+        "ar": "ترافل برجر",
+        "en": "Truffle burger",
+        "price": 55,
+        "available": true
+      },
+      {
+        "id": "3-3",
+        "ar": "كرسبي تشيكن برجر",
+        "en": "Crispy Chicken Burger",
+        "price": 45,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "باستا و رزيتو",
+    "en": "PASTA AND RISOTTO",
+    "id": "4",
+    "items": [
+      {
+        "id": "4-0",
+        "ar": "باستا اربيتا",
+        "en": "Arrabita pasta",
+        "price": 48,
+        "available": true
+      },
+      {
+        "id": "4-1",
+        "ar": "فيتوتشيني الفريدو الدجاج",
+        "en": "Alfredo fettuccine chicken",
+        "price": 66,
+        "available": true
+      },
+      {
+        "id": "4-2",
+        "ar": "بينك باستا ريجاتوني",
+        "en": "Pink Rigatoni Pasta",
+        "price": 64,
+        "available": true
+      },
+      {
+        "id": "4-3",
+        "ar": "هوم ميد رافيولي",
+        "en": "Homemade  Ravioli",
+        "price": 61,
+        "available": true
+      },
+      {
+        "id": "4-4",
+        "ar": "اسباجيتي بلونيز",
+        "en": "spaghetti bolognese",
+        "price": 63,
+        "available": true
+      },
+      {
+        "id": "4-5",
+        "ar": "ترافل باستا",
+        "en": "Truffle pasta",
+        "price": 72,
+        "available": true
+      },
+      {
+        "id": "4-6",
+        "ar": "بيف لازانيا",
+        "en": "Beef lasagna",
+        "price": 69,
+        "available": true
+      },
+      {
+        "id": "4-7",
+        "ar": "لازنيا السبانخ",
+        "en": "Lasagna spinach",
+        "price": 61,
+        "available": true
+      },
+      {
+        "id": "4-8",
+        "ar": "روزيتو ترافل مشروم",
+        "en": "Mushroom Truffle Risotto",
+        "price": 73,
+        "available": true
+      },
+      {
+        "id": "4-9",
+        "ar": "شورت ريبس روزيتو",
+        "en": "Short Ribs Risotto",
+        "price": 92,
+        "available": true
+      },
+      {
+        "id": "4-10",
+        "ar": "صن دراي رزيتو الدجاج",
+        "en": "Chicken Sun-Dried Tomato Risotto",
+        "price": 71,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "الاطباق الرئيسية",
+    "en": "MAIN COURSE",
+    "id": "5",
+    "items": [
+      {
+        "id": "5-0",
+        "ar": "تشيكن فونجي",
+        "en": "Pollo Ala-Funji",
+        "price": 75,
+        "available": true
+      },
+      {
+        "id": "5-1",
+        "ar": "ستيك ميدليون",
+        "en": "Medallion steak",
+        "price": 78,
+        "available": true
+      },
+      {
+        "id": "5-2",
+        "ar": "ستيك تندرليون",
+        "en": "Tenderloin Steak",
+        "price": 141,
+        "available": true
+      },
+      {
+        "id": "5-3",
+        "ar": "كريمي تندرليون بيف",
+        "en": "Creamy tenderloin beef",
+        "price": 84,
+        "available": true
+      },
+      {
+        "id": "5-4",
+        "ar": "ريب اي ستيك",
+        "en": "Rib Eye steak",
+        "price": 158,
+        "available": true
+      },
+      {
+        "id": "5-5",
+        "ar": "سلمون جريل",
+        "en": "Grilled salmon",
+        "price": 97,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "البيتزا -نص ونص تحسب بالأعلى",
+    "en": "Pizza - half and half calculated above",
+    "id": "6",
+    "items": [
+      {
+        "id": "6-0",
+        "ar": "مارجريتا",
+        "en": "Margarita pizza",
+        "price": 58,
+        "available": true
+      },
+      {
+        "id": "6-1",
+        "ar": "بيتزا خضراوات",
+        "en": "Veggie pizza",
+        "price": 63,
+        "available": true
+      },
+      {
+        "id": "6-2",
+        "ar": "بيتزا مسخن",
+        "en": "musakhan Pizza",
+        "price": 71,
+        "available": true
+      },
+      {
+        "id": "6-3",
+        "ar": "بافلو بيتزا",
+        "en": "Buffalo Pizza",
+        "price": 68,
+        "available": true
+      },
+      {
+        "id": "6-4",
+        "ar": "بيبروني بيتزا",
+        "en": "pepperoni pizza",
+        "price": 66,
+        "available": true
+      },
+      {
+        "id": "6-5",
+        "ar": "بيتزا سبانخ",
+        "en": "spinach chicken pizza",
+        "price": 76,
+        "available": true
+      },
+      {
+        "id": "6-6",
+        "ar": "ترافيل بيتزا",
+        "en": "truffle pizza",
+        "price": 81,
+        "available": true
+      },
+      {
+        "id": "6-7",
+        "ar": "تشكن باربكيو بيتزا",
+        "en": "BBQ chicken pizza",
+        "price": 75,
+        "available": true
+      },
+      {
+        "id": "6-8",
+        "ar": "بوراتا بيتزا",
+        "en": "Burrata pizza",
+        "price": 87,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "الحلى",
+    "en": "DESSERTS",
+    "id": "7",
+    "items": [
+      {
+        "id": "7-0",
+        "ar": "كريم بروليه",
+        "en": "Cream Brulé",
+        "price": 37,
+        "available": true
+      },
+      {
+        "id": "7-1",
+        "ar": "شوكو سان سابستيان",
+        "en": "CHOCO SEBSTAIN",
+        "price": 42,
+        "available": true
+      },
+      {
+        "id": "7-2",
+        "ar": "تيراميسو",
+        "en": "Tiramisu",
+        "price": 49,
+        "available": true
+      },
+      {
+        "id": "7-3",
+        "ar": "لاجويـا آيس كريم شيزكيك",
+        "en": "LA GIOIA Cheesecake Ice Cream",
+        "price": 44,
+        "available": true
+      },
+      {
+        "id": "7-4",
+        "ar": "ميكس بيري كيك",
+        "en": "mix berry cheesecake",
+        "price": 44,
+        "available": true
+      },
+      {
+        "id": "7-5",
+        "ar": "قولدن كرانشي كيك",
+        "en": "Golden crunchy cake",
+        "price": 189,
+        "available": true
+      },
+      {
+        "id": "7-6",
+        "ar": "قولدن كرانشي كيك",
+        "en": "Golden crunchy cake",
+        "price": 52,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "المشروبات الساخنة",
+    "en": "HOT DRINKS",
+    "id": "8",
+    "items": [
+      {
+        "id": "8-0",
+        "ar": "قهوة التركية",
+        "en": "Turkish Coffee",
+        "price": 16,
+        "available": true
+      },
+      {
+        "id": "8-1",
+        "ar": "لاتيه",
+        "en": "Latte",
+        "price": 24,
+        "available": true
+      },
+      {
+        "id": "8-2",
+        "ar": "امريكانو",
+        "en": "Americano",
+        "price": 20,
+        "available": true
+      },
+      {
+        "id": "8-3",
+        "ar": "سبانش لاتيه حار",
+        "en": "Spanish Latte Hot",
+        "price": 25,
+        "available": true
+      },
+      {
+        "id": "8-4",
+        "ar": "شاي",
+        "en": "Tea",
+        "price": 16,
+        "available": true
+      },
+      {
+        "id": "8-5",
+        "ar": "اسبريسوا",
+        "en": "Espresso",
+        "price": 15,
+        "available": true
+      },
+      {
+        "id": "8-6",
+        "ar": "دبل اسبريسوا",
+        "en": "Double Espresso",
+        "price": 17,
+        "available": true
+      },
+      {
+        "id": "8-7",
+        "ar": "كابتشينوا",
+        "en": "cappuccino",
+        "price": 23,
+        "available": true
+      },
+      {
+        "id": "8-8",
+        "ar": "FLAT WHITE",
+        "en": "FLAT WHITE",
+        "price": 22,
+        "available": true
+      },
+      {
+        "id": "8-9",
+        "ar": "V60 كولومبي",
+        "en": "V 60 colombia HOT",
+        "price": 22,
+        "available": true
+      },
+      {
+        "id": "8-10",
+        "ar": "V60 اثيوبي",
+        "en": "Ethiopian V60 HOT",
+        "price": 22,
+        "available": true
+      },
+      {
+        "id": "8-11",
+        "ar": "هوت شوكليت",
+        "en": "Hot chocolate",
+        "price": 23,
+        "available": true
+      },
+      {
+        "id": "8-12",
+        "ar": "القهوة السعودية",
+        "en": "Saudi coffee",
+        "price": 49,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "المشروبات الباردة",
+    "en": "COLD DRINKS",
+    "id": "9",
+    "items": [
+      {
+        "id": "9-0",
+        "ar": "ايس امريكانو",
+        "en": "Ice Americano",
+        "price": 21,
+        "available": true
+      },
+      {
+        "id": "9-1",
+        "ar": "ايس  لاتيه",
+        "en": "Ice Latte",
+        "price": 25,
+        "available": true
+      },
+      {
+        "id": "9-2",
+        "ar": "ايس سبانش لاتيه",
+        "en": "Ice Spanish Latte",
+        "price": 26,
+        "available": true
+      },
+      {
+        "id": "9-3",
+        "ar": "ايس V60 كولومبي",
+        "en": "V 60 colombia ice",
+        "price": 23,
+        "available": true
+      },
+      {
+        "id": "9-4",
+        "ar": "ايس V60 اثيوبي",
+        "en": "Ice V 60 Ethiopian",
+        "price": 23,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "الموهيتو",
+    "en": "MOJITO",
+    "id": "10",
+    "items": [
+      {
+        "id": "10-0",
+        "ar": "موهيتو ليمون",
+        "en": "Lemon Mojito",
+        "price": 23,
+        "available": true
+      },
+      {
+        "id": "10-1",
+        "ar": "موهيتو الفراولة",
+        "en": "Strawberry Mojito",
+        "price": 25,
+        "available": true
+      },
+      {
+        "id": "10-2",
+        "ar": "موهيتو الخاص بالباشن فروت",
+        "en": "Special Passion Fruit Mojito",
+        "price": 26,
+        "available": true
+      },
+      {
+        "id": "10-3",
+        "ar": "الشاي المثلج بالخوخ",
+        "en": "Peach Ice Tea",
+        "price": 21,
+        "available": true
+      },
+      {
+        "id": "10-4",
+        "ar": "زعفران بالخوخ",
+        "en": "Saffron Peach",
+        "price": 25,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "العصائر الطبيعية",
+    "en": "FRESH JUICES",
+    "id": "11",
+    "items": [
+      {
+        "id": "11-0",
+        "ar": "عصير البرتقال",
+        "en": "Orange juice",
+        "price": 24,
+        "available": true
+      },
+      {
+        "id": "11-1",
+        "ar": "عصير ليمون نعناع",
+        "en": "Lemon with Mint",
+        "price": 22,
+        "available": true
+      },
+      {
+        "id": "11-2",
+        "ar": "عصير الفروالة",
+        "en": "Strawberry Juice",
+        "price": 25,
+        "available": true
+      }
+    ]
+  },
+  {
+    "ar": "المشروبات الغازيه والمياه",
+    "en": "SOFT DRINK AND WATER",
+    "id": "12",
+    "items": [
+      {
+        "id": "12-0",
+        "ar": "مياة معدنية كبيرة",
+        "en": "Big Water 750ml",
+        "price": 16,
+        "available": true
+      },
+      {
+        "id": "12-1",
+        "ar": "مياة معدنية صغير",
+        "en": "Small Water330 ml",
+        "price": 11,
+        "available": true
+      },
+      {
+        "id": "12-2",
+        "ar": "مياة غازية",
+        "en": "Sparkling Water 250 ml",
+        "price": 14,
+        "available": true
+      },
+      {
+        "id": "12-3",
+        "ar": "بيبسي",
+        "en": "Pepsi",
+        "price": 10,
+        "available": true
+      },
+      {
+        "id": "12-4",
+        "ar": "بيبسي دايت",
+        "en": "Diet Pepsi",
+        "price": 10,
+        "available": true
+      },
+      {
+        "id": "12-5",
+        "ar": "7 - UP",
+        "en": "7 - UP",
+        "price": 10,
+        "available": true
+      },
+      {
+        "id": "12-6",
+        "ar": "سفن اب دايت",
+        "en": "Diet 7-up",
+        "price": 10,
+        "available": true
+      },
+      {
+        "id": "12-7",
+        "ar": "ميرندا",
+        "en": "Mirinda",
+        "price": 10,
+        "available": true
+      }
+    ]
+  }
+]
