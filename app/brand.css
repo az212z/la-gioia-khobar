@@ -1,2 +1,11 @@
 :root,.dark{--background:#fffaf1;--foreground:#28362d;--muted:#e2d2ad;--muted-foreground:#28362dbb;--border:#28362d35;--ring:#305b43;--primary:#305b43;--primary-foreground:#fff7e8;--accent:#305b43;--night:#163a2b;--cream:#fff7e8;--tint:#e2d2ad;}
 .header a:hover,.hero h1 span,.price{color:#305b43}.button{background:#305b43;border-color:#305b43;color:#fff7e8}.button:hover{background:#163a2b}.hero-description,.hero-meta,.section-heading>p,.menu-item div>p,.menu-footnote{color:#28362dbb}.story{background:#163a2b;color:#fff7e8}.story .eyebrow,.story-copy>p:not(.eyebrow),.story .text-link{color:#fff7e8df}.story-signature{color:#e2d2ad}.social-section{background:#e2d2ad}.social-section>p,.visit-note p{color:#28362dcc}.category-list [data-slot=tabs-trigger][data-active]{background:#305b43;border-color:#305b43;color:#fff7e8}.category-list [data-slot=tabs-trigger]{border-color:#28362d35;color:#28362dcc}.category-heading,.menu-item,.menu-footnote,.search-field{border-color:#28362d35}.table-note>span:nth-child(2){color:#305b43}.full-photo h2,.full-photo .eyebrow{color:#fff7e8}.empty-state button{background:#305b43;color:#fff7e8}footer{color:#28362dcc}.unavailable{display:inline-block;font-size:12px;color:#28362d99;margin-top:5px}
+
+/* Direct restaurant WhatsApp contact; reserve space at the end of the page. */
+.restaurant{padding-bottom:5.5rem}
+.whatsapp-contact{position:fixed;inset-inline-end:max(1rem,env(safe-area-inset-right));bottom:calc(1rem + env(safe-area-inset-bottom));z-index:60;display:inline-flex;align-items:center;justify-content:center;gap:.65rem;min-height:3.25rem;padding:.75rem 1.15rem;border:1px solid #ffffff40;border-radius:999px;background:#075e54;color:#fff;box-shadow:0 8px 28px #0003;font-size:1rem;font-weight:600;text-decoration:none;transition:background .2s,transform .2s}
+.whatsapp-contact:hover{background:#064b43;transform:translateY(-2px)}
+.whatsapp-contact:focus-visible{outline:3px solid #25d366;outline-offset:4px}
+.whatsapp-contact svg{flex-shrink:0}
+@media(prefers-reduced-motion:reduce){.whatsapp-contact{transition:none}.whatsapp-contact:hover{transform:none}}
+@media print{.whatsapp-contact{display:none}.restaurant{padding-bottom:0}}
